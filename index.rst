@@ -1,16 +1,15 @@
-The Daily Dot Does DjangoCon
+Does DjangoCon
 ============================
 
 .. image:: img/3millionserved.png
 
-Jason Novinger
 
 ----
 
 The paper of record for the Web
 ===============================
 
-* Report on the most important and relevant topics from within,
+* Report on the most important and relevant topics from within the Internet,
 * Apply tried-and-true principles drawn from community journalism to the growing cultures of the Internet
 * Allow our audience to read the Dot across multiple platforms, where they live, online.
 
@@ -74,7 +73,7 @@ So, tell us your story ...
 Tell us how you use Django
 ==========================
 
-In that vein, branch our Git repo (below) and submit a pull request telling us how you use Django in your product or service. The repo includes these slides and will also include rough drafts of the final article that will appear on our site.
+In that vein, branch our Git repo (below) and submit a pull request telling us how you use Django in your product or service.
 
 https://github.com/dailydot/djangocon_2012
 ------------------------------------------
@@ -82,10 +81,8 @@ https://github.com/dailydot/djangocon_2012
 We'll be writing a piece about how the Web's favorite sites use Django, highlighting
 companies and services that appeal to our audience.
 
-----
-
 Do our readers **have** to know about you?
-======================================================
+------------------------------------------
 
 Does you product or service work in conjunction with one of our core communities? Think it appeals to our readers? Is it the next community we'll cover?
 
